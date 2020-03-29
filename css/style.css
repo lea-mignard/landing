@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Questrial|Quicksand:400,500,600,700|Reem+Kufi&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Questrial', sans-serif;
+  font-size: 15px;
+  margin: 0px;
+}
+
+h1 {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
